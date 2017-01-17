@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace WebhookTestApplication
 {
-    class Program
+    public class TestClass
     {
-        static void Main(string[] args)
+        public void TestedMethod(string line)
         {
-            TestClass tc = new TestClass();
-            tc.TestedMethod("Production code");
-        }        
+            Console.WriteLine(line);
+        }
     }
 }

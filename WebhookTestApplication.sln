@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebhookTestApplication", "WebhookTestApplication\WebhookTestApplication.csproj", "{E8930700-2FB3-47F5-B7E4-2FB6D67E797A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebhookTestApplicationTests", "WebhookTestApplicationTests\WebhookTestApplicationTests.csproj", "{13AEE460-26C4-4BFB-8B70-3D027133C820}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E8930700-2FB3-47F5-B7E4-2FB6D67E797A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8930700-2FB3-47F5-B7E4-2FB6D67E797A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8930700-2FB3-47F5-B7E4-2FB6D67E797A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13AEE460-26C4-4BFB-8B70-3D027133C820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AEE460-26C4-4BFB-8B70-3D027133C820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AEE460-26C4-4BFB-8B70-3D027133C820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AEE460-26C4-4BFB-8B70-3D027133C820}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
