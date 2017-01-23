@@ -15,7 +15,7 @@ namespace WebhookTestApplication.Tests
         public void TestedMethodTest()
         {
             TestClass tc = new TestClass();
-            tc.TestedMethod("Test!");
+            tc.TestedMethod("Test 2!");
         }
     }
 }
